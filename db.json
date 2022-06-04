@@ -1,0 +1,10 @@
+{
+    "users": [
+        {"id":1, "name": "Big Tom", "email": "bigtom@gmail.com"},
+        {"id":2, "name": "Jimmy", "email": "jimmy@gmail.com"},
+        {"id":3, "name": "Johny", "email": "johnytom@gmail.com"}
+    ],
+    "comments": [
+        {"id": 1, "body": "somecommet", "userid": 1}
+    ]
+}
